@@ -1,5 +1,7 @@
 # 🌱 Data Structure & Algorithm study group 
 
+
+
 ## Hi there 👋
 
 
@@ -11,9 +13,11 @@
 
 
 
+
 ## STUDY WEEKLY MEETING
 A one-hour weekend meeting to support and encourage consistent study progress, with a dedicated Discord channel and regular GitHub contributions.
-  
+
+
 
 
 
