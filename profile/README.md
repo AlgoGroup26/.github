@@ -1,6 +1,7 @@
+# 🌱 Data Structure & Algorithm study group 
+
 ## Hi there 👋
 
-#🌱 Data Structure & Algorithm study group 
 
 [📒 Meeting Summary Notion](https://www.notion.so/Algorithm-Study-Group-328e7ecf764a8024aac6e972e38be8e1) 
 
