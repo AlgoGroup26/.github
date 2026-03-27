@@ -20,8 +20,9 @@ A one-hour weekend meeting to support and encourage consistent study progress, w
 ## Members
 | username | state |
 | --- | --- |
+|[TheBelgian3620](https://github.com/TheBelgian3620)| 👨‍💻 |
 | [software24](https://github.com/) | 👨‍💻 |
-|
+
 
 
 
