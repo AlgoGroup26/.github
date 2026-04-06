@@ -17,11 +17,9 @@
 ## STUDY WEEKLY MEETING
 A one-hour weekend meeting to support and encourage consistent study progress, with a dedicated Discord channel and regular GitHub contributions.
 
-## Members
-| username | state |
-| --- | --- |
-|[TheBelgian3620](https://github.com/TheBelgian3620)| 👨‍💻 |
-| [software24](https://github.com/) | 👨‍💻 |
+## Members (Total 7) 
+| nicknames |
+Blue, Bel,Light, New Person, Software, Someguy, Yu
 
 
 
